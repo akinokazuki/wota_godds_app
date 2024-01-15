@@ -65,3 +65,5 @@
 検索　ransack stimilus-autocomplete
 レコメンド　Amazon Personalize
 
+## 画面遷移図
+https://www.figma.com/file/bHJqGh3h68FvM1UsTawON6/wota_goods_app_UI?type=design&node-id=0%3A1&mode=design&t=k7lKKexKA04T6O8o-1
