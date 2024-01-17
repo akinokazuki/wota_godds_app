@@ -67,3 +67,12 @@
 
 ## 画面遷移図
 https://www.figma.com/file/bHJqGh3h68FvM1UsTawON6/wota_goods_app_UI?type=design&node-id=0%3A1&mode=design&t=k7lKKexKA04T6O8o-1
+
+## テーブル説明
+Users                   ユーザーのログイン情報を保存
+Profiles                ユーザーのマイページに表示するプロフィール情報を保存
+Posts                   投稿の情報を保存
+Bookmarks               ブックマーク機能のためのテーブル
+TagRelationships        タグと投稿を紐づけるテーブル
+Tags                    タグを保存
+
