@@ -76,3 +76,13 @@ Bookmarks               ブックマーク機能のためのテーブル
 TagRelationships        タグと投稿を紐づけるテーブル
 Tags                    タグを保存
 
+## 開発環境
+- サーバーサイド: Ruby on Rails 7系
+　Ruby 3.3.0 Rails 7.0.8
+- フロントエンド: Hotwire
+- CSSフレームワーク: bootstrap5系
+- インフラ:
+  - Webアプリケーションサーバ: Fly.io
+  - ファイルサーバ: AWS S3
+  - セッションサーバ: Redis（Redis by Upstash）
+  - データベースサーバ: PostgreSQL（Fly Postgres）
